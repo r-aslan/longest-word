@@ -7,6 +7,7 @@ name = "pypi"
 pyenchant = "*"
 pydictionary = "*"
 flask = "*"
+gunicorn = "*"
 
 [dev-packages]
 nose = "*"

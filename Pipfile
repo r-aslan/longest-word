@@ -4,6 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+pyenchant = "*"
+pydictionary = "*"
 
 [dev-packages]
 nose = "*"

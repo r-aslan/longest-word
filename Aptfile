@@ -10,8 +10,8 @@ libgcc1
 libstdc++6
 zlib1g
 gcc
-gcc-5
-gcc-5-base
+gcc-10
+gcc-10-base
 libmpfr4
 libmpfr-dev
 libmpc3

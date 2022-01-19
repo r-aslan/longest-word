@@ -1,5 +1,6 @@
 # Packages used to fix the C compiler.
 #enchant
 libenchant-2-dev
+hunspell-en-us
 #python3-enchant
 make

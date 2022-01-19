@@ -1,7 +1,7 @@
 # Packages used to fix the C compiler.
 build-essential
 binutils
-cpp-5
+cpp
 libc6
 libc6-dev
 libcc1-0

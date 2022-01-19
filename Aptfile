@@ -21,6 +21,6 @@ libgmp-dev
 libmpc-dev
 flex
 bison
-libisl23
+#libisl23
 libisl-dev
 make

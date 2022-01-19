@@ -23,4 +23,8 @@ flex
 bison
 #libisl23
 libisl-dev
+enchant-2
+libenchant-2-2
+libenchant-2-dev
+python3-enchant
 make

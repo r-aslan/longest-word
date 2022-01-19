@@ -5,7 +5,7 @@ cpp
 libc6
 libc6-dev
 libcc1-0
-libgcc-5-dev
+libgcc-10-dev
 libgcc1
 libstdc++6
 zlib1g

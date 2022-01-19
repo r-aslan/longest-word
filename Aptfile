@@ -12,7 +12,7 @@ zlib1g
 gcc
 gcc-10
 gcc-10-base
-libmpfr4
+libmpfr6
 libmpfr-dev
 libmpc3
 libgmp3-dev

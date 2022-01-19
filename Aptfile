@@ -27,5 +27,5 @@ enchant-2
 #first added no resolution down
 libenchant-2-2
 #libenchant-2-dev
-#python3-enchant
+python3-enchant
 make

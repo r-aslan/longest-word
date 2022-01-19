@@ -3,4 +3,4 @@
 libenchant-2-dev
 hunspell-en-us
 #python3-enchant
-make
+make install

@@ -1,5 +1,5 @@
 # Packages used to fix the C compiler.
-enchant
-#libenchant-dev
+e#nchant
+libenchant-3-dev
 #python3-enchant
 make
